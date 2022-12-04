@@ -5,7 +5,7 @@
 
 ##### Технологии.
 В проекте использованы следующие технологии:
-Python 3.7, Django 3.2, Django REST Framework, JWT (JSON Web Token), Djoser.
+Python 3.7, Django 2.2.16, Django REST Framework, JWT (JSON Web Token), Djoser.
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
