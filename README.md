@@ -79,5 +79,5 @@ http://127.0.0.1:8000/redoc/
 Автор проекта: **Костров Михаил**.
 Студент курса "Разработчик Python" (45-47 когорт).
 * [GitHub](https://github.com/mdkostrov/)
-- [Telegram](https://t.me/MihaMaha)
-+ [VK](https://vk.com/mdkostrov)
+* [Telegram](https://t.me/MihaMaha)
+* [VK](https://vk.com/mdkostrov)
